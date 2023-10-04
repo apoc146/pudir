@@ -1,2 +1,2 @@
 # PUDirectory
-A Cli interface to search purdue diretory . Long Live Terminal!
+A CLI to search purdue diretory . Long Live Terminal!
